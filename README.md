@@ -1,2 +1,2 @@
-# AWS-Hadoop-MapReduce
-Successfully developed a highly-available and scalable distributed system to analyze a dataset to identify various attributes in a specific area. Analyzed the application by using various number of mappers and reducers.
+# AWS Hadoop MapReduce
+A python web application to take variable user input and perform map and reduce tasks on a huge dataset. A sample dataset is provided.
